@@ -90,35 +90,6 @@
     ]
   },
   {
-    "title":"Youtube Movies",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Latest Movies 2018",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/results?search_query=latest+movies+2018"
-        ]
-      },
-      {
-        "title":"Live Streaming Movies",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/watch?v=b2IJJ031XTM"
-        ]
-      },
-      {
-        "title":"Lifetime Movies English",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/results?search_query=lifetime+movies"
-        ]
-      }
-    ]
-  },
-  {
     "title":"Forum",
     "drawable":"",
     "submenu":"Our Community",
