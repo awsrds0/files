@@ -1,0 +1,332 @@
+[
+  {
+    "title":"Trending",
+    "drawable":"",
+    "submenu":"News & Updates",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Trending",
+        "provider":"webview",
+        "arguments":[
+          "http://news.abs-cbn.com/trending"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Entertainment News",
+    "drawable":"",
+    "submenu":"News & Updates",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Entertainment News",
+        "provider":"webview",
+        "arguments":[
+          "http://news.abs-cbn.com/entertainment"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Sports",
+    "drawable":"",
+    "submenu":"News & Updates",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Sports",
+        "provider":"webview",
+        "arguments":[
+          "http://news.abs-cbn.com/sports"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"ABS-CBN",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"ABS-CBN",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=abscbnrecord"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"GMA Shows",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"GMA Shows",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=gmarecord"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Latest Recorded Shows",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Latest Recorded Shows",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=latestrecord"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"TFC Pinoy",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TFC Pinoy",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=tfcpinoy"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"GMA Pinoy TV",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"GMA Pinoy TV",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=gmapinoy"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"TV5 Pinoy",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TV5 Pinoy",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=tv5pinoy"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"PTV",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"PTV",
+        "provider":"webview",
+        "arguments":[
+          "https://www.youtube.com/watch?v=xFGetEcMfF0"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"DZRH News",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"DZRH News",
+        "provider":"webview",
+        "arguments":[
+          "https://www.youtube.com/watch?v=45iPQqmAYL0"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Forum",
+    "drawable":"",
+    "submenu":"Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Forum",
+        "provider":"webview",
+        "arguments":[
+          "http://livetv.boards.net"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Love Radio",
+    "drawable":"",
+    "submenu":"Radios",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Love Radio",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=loveradio"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"HBO USA HD",
+    "drawable":"",
+    "submenu":"English Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"HBO USA HD",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=hbohd"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"USA Network",
+    "drawable":"",
+    "submenu":"English Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"USA Network",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=usanet"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"CBS USA",
+    "drawable":"",
+    "submenu":"English Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"CBS USA",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=cbsusa"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Cartoon Network",
+    "drawable":"",
+    "submenu":"English Live TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Cartoon Network",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=cartoonnet"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Tagalog Movies",
+    "drawable":"",
+    "submenu":"Movies",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Tagalog Movies",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=tagalogmov"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Tagalog Dubbed Movies",
+    "drawable":"",
+    "submenu":"Movies",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Tagalog Dubbed Movies",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/pinoy-tv-login.html?param=tagalogdubmov"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Contact Us",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact Us",
+        "provider":"webview",
+        "arguments":[
+          "http://autocareblog.com/contact-us/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Share This App",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Share This App",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/share-our-app.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"App Settings",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
