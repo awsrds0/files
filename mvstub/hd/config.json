@@ -9,7 +9,7 @@
         "title":"Movies Link 1",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/english-movies-2.html"
+          "http://blogworldcup18.blogspot.com/p/movies-tube-login_11.html"
         ]
       }
     ]
@@ -24,7 +24,7 @@
         "title":"Movies Link 2",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/english-movies-1.html"
+          "http://blogworldcup18.blogspot.com/p/movies-tube-login-movies-link-2.html"
         ]
       }
     ]
@@ -39,7 +39,7 @@
         "title":"Movies Link 3",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/english-movies-3.html"
+          "http://blogworldcup18.blogspot.com/p/blog-page_11.html"
         ]
       }
     ]
@@ -54,7 +54,7 @@
         "title":"TV Series Link 1",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tv-series-1.html"
+          "http://blogworldcup18.blogspot.com/p/blog-page_7.html"
         ]
       }
     ]
@@ -69,7 +69,7 @@
         "title":"TV Series Link 2",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tv-series-2.html"
+          "http://blogworldcup18.blogspot.com/p/movies-tube-login-tv-series-2.html"
         ]
       }
     ]
@@ -84,36 +84,7 @@
         "title":"Movies Link 3",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tv-series-3.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Youtube Movies",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Latest Movies 2018",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/results?search_query=latest+movies+2018"
-        ]
-      },
-      {
-        "title":"Live Streaming Movies",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/watch?v=b2IJJ031XTM"
-        ]
-      },
-      {
-        "title":"Lifetime Movies English",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youtube.com/results?search_query=lifetime+movies"
+          "http://blogworldcup18.blogspot.com/p/blog-page_34.html"
         ]
       }
     ]
@@ -128,7 +99,7 @@
         "title":"Forum",
         "provider":"webview",
         "arguments":[
-          "http://livetv.boards.net"
+          "https://tousif1988.wixsite.com/movies/forum"
         ]
       }
     ]
