@@ -1,5 +1,6 @@
 function likemain()
 {
+    alert("entered");
     //after seconds of loading
 setTimeout(function() { 
 $("#popup1").trigger('click');
