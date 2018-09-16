@@ -1,4 +1,4 @@
 function likemain()
 {
-    alert("entered");
+    alert('hello');
 }
