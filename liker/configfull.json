@@ -1,0 +1,142 @@
+[
+  {
+    "title":"Welcome",
+    "drawable":"",
+    "submenu":"Exchange",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Welcome",
+        "provider":"webview",
+        "arguments":[
+          "https://blogworldcup18.blogspot.com/p/blog-page_15.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Login/Register",
+    "drawable":"",
+    "submenu":"Exchange",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Login/Register",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/login/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Earn Credits",
+    "drawable":"",
+    "submenu":"Exchange",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Facebook Video",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/earn-facebook-video.php"
+        ]
+      },
+      {
+        "title":"Twitter Followers",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/free-twitter-followers.php"
+        ]
+      },
+      {
+        "title":"Twitter Retweets",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/earn-twitter-retweet.php"
+        ]
+      },
+      {
+        "title":"Twitter Likes",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/earn-twitter-favorites.php"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Add Instagram Accounts",
+    "drawable":"",
+    "submenu":"Exchange",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Instagram Follows",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/manage-instagram-follow.php"
+        ]
+      },
+      {
+        "title":"Instagram Like",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/manage-instagram-like.php"
+        ]
+      },
+      {
+        "title":"Instagram Comments",
+        "provider":"webview",
+        "arguments":[
+          "https://www.like4like.org/user/manage-instagram-comments.php"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Contact Us",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact Us",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/contact-us.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Share This App",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Share This App",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/share-our-app.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"App Settings",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
