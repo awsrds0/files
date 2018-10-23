@@ -9,51 +9,6 @@
         "title":"Welcome",
         "provider":"webview",
         "arguments":[
-          "https://blogworldcup18.blogspot.com/p/blog-page_15.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Login/Register",
-    "drawable":"",
-    "submenu":"Exchange",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Login/Register",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Earn Credits",
-    "drawable":"",
-    "submenu":"Exchange",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Facebook Video",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Add Your Account",
-    "drawable":"",
-    "submenu":"Exchange",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Instagram Follows",
-        "provider":"webview",
-        "arguments":[
           "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
         ]
       }
