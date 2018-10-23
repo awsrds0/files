@@ -41,52 +41,17 @@
         "arguments":[
           "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
         ]
-      },
-      {
-        "title":"Twitter Followers",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      },
-      {
-        "title":"Twitter Retweets",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      },
-      {
-        "title":"Twitter Likes",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
       }
     ]
   },
   {
-    "title":"Add Instagram Accounts",
+    "title":"Add Your Account",
     "drawable":"",
     "submenu":"Exchange",
     "iap":false,
     "tabs":[
       {
         "title":"Instagram Follows",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      },
-      {
-        "title":"Instagram Like",
-        "provider":"webview",
-        "arguments":[
-          "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
-        ]
-      },
-      {
-        "title":"Instagram Comments",
         "provider":"webview",
         "arguments":[
           "https://blogworldcup18.blogspot.com/p/11-ways-to-get-more-real-instagram.html"
